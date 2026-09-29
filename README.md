@@ -8,6 +8,8 @@ The workflow was described in:
 
 Seblastian is legacy software written for Python 2.7. Linux x86-64 is the best-supported platform, particularly for the bundled SECISearch and COVE executables.
 
+SECISearch and sEBLASTIAN are also available through our [web server](https://seblastian.crg.es/).
+
 ## Installation with Conda
 
 Install [Conda](https://docs.conda.io/projects/conda/en/latest/user-guide/install/index.html) or Mamba, then clone this repository:
