@@ -1,0 +1,40 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# Editor and operating-system files
+*~
+*.swp
+*.swo
+.DS_Store
+.idea/
+.vscode/
+
+# Local configuration
+.env
+.env.*
+!.env.example
+
+# Seblastian temporary and result files
+tmp/
+temp/
+results/
+*.log
+*.index
+*.chromosome_lengths
+*.known_selenoprotein_gis
+*.upstream_seqs
+*.uga_pos
+*.blastx
+*.blastx.*
+*.secis.infernal
+*.secis.covels
+*.pickled_dmp.*
+*.output.*
+*.exout
+*.exonerate/
+
+# BLAST indexes generated for input nucleotide FASTA files
+*.nhr
+*.nin
+*.nsq
